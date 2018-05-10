@@ -23,7 +23,8 @@ input[type="text"]
 	
 		ul.social-list-1 li:first-child
 		{
-			display:none;
+			font-size: .8em
+			/* display:none; */
 		}
 
 /******************************************************************************/
